@@ -38,6 +38,18 @@
                 android:text="rectPointView"
                 android:textAllCaps="false"
                 android:onClick="toRectPointView"/>
+            <com.google.android.material.button.MaterialButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="intersect"
+                android:textAllCaps="false"
+                android:onClick="intersect"/>
+            <com.google.android.material.button.MaterialButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="spiderView"
+                android:textAllCaps="false"
+                android:onClick="spiderView"/>
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
 

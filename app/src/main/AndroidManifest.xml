@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CustomViewStudy">
         <activity
+            android:name=".SpiderActivity"
+            android:exported="false" />
+        <activity
+            android:name=".IntersectActivity"
+            android:exported="false" />
+        <activity
             android:name=".RectPointViewActivity"
             android:exported="false" />
         <activity

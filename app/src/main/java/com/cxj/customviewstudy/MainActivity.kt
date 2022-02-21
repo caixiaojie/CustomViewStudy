@@ -65,4 +65,12 @@ class MainActivity : AppCompatActivity() {
     fun toRectPointView(view: View) {
         RectPointViewActivity.start(this)
     }
+
+    fun intersect(view: View) {
+        IntersectActivity.start(this)
+    }
+
+    fun spiderView(view: View) {
+        SpiderActivity.start(this)
+    }
 }
