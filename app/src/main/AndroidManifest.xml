@@ -24,13 +24,32 @@
         <activity
             android:name=".BasicViewActivity"
             android:exported="false" />
-        <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity android:name=".MainActivity2">
 
-                <category android:name="android.intent.category.LAUNCHER" />
+        </activity>
+
+        <activity android:name=".f_activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+
+        <!--1. 绘图基础-->
+        <activity android:name=".f_activity.ABasicActivity"/>
+
+        <!--2. 路径绘制-->
+        <activity android:name=".f_activity.BPathActivity"/>
+
+        <!--3. 文字绘制-->
+        <activity android:name=".f_activity.CTextActivity"/>
+
+        <!--4. 区域操作-->
+        <activity android:name=".f_activity.DRegionActivity"/>
+
+        <!--5. 画布进阶-->
+        <activity android:name=".f_activity.ECanvasActivity"/>
     </application>
 
 </manifest>

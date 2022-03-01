@@ -6,13 +6,13 @@ import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import java.lang.Exception
 
-class MainActivity : AppCompatActivity() {
+class MainActivity2 : AppCompatActivity() {
     var firstDialogFragment: FirstDialogFragment? = null
     var isShowLoading = false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_main2)
     }
 
     fun showFragment(view: View) {
