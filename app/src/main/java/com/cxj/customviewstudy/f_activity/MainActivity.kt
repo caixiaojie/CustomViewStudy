@@ -20,6 +20,7 @@ class MainActivity : BaseActivity() {
         btn_clock.start(ClockViewActivity::class.java)
         btn_image.start(ImageBasicActivity::class.java)
         btn_StickerTextView.start(StickerTextViewActivity::class.java)
+        btn_MoveImage.start(MoveImageActivity::class.java)
     }
 
 }

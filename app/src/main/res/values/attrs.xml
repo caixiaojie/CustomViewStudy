@@ -7,4 +7,11 @@
 
     </declare-styleable>
 
+    <declare-styleable name="GyMovedImageButton">
+        <attr name="alpha" format="float" />
+        <attr name="extrudeSize" format="float" />
+        <attr name="animTime" format="integer" />
+    </declare-styleable>
+
+
 </resources>

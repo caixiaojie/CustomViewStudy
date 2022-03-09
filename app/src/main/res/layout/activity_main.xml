@@ -60,6 +60,11 @@
         android:background="#2196F3"
         style="@style/MyBtn"
         android:text="StickerTextView"/>
+    <Button
+        android:id="@+id/btn_MoveImage"
+        android:background="#2196F3"
+        style="@style/MyBtn"
+        android:text="MoveImage"/>
 
     <com.cxj.customviewstudy.MyView
             android:layout_width="wrap_content"
