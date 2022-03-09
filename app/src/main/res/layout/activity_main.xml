@@ -40,6 +40,27 @@
             style="@style/MyBtn"
             android:text="5. 画布进阶"/>
 
+    <Button
+        android:id="@+id/btn_preview_circle_camera"
+        android:background="#2196F3"
+        style="@style/MyBtn"
+        android:text="人脸识别圆圈"/>
+    <Button
+        android:id="@+id/btn_clock"
+        android:background="#2196F3"
+        style="@style/MyBtn"
+        android:text="时钟"/>
+    <Button
+        android:id="@+id/btn_image"
+        android:background="#2196F3"
+        style="@style/MyBtn"
+        android:text="图形"/>
+    <Button
+        android:id="@+id/btn_StickerTextView"
+        android:background="#2196F3"
+        style="@style/MyBtn"
+        android:text="StickerTextView"/>
+
     <com.cxj.customviewstudy.MyView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>

@@ -15,7 +15,7 @@ public class C8TextAssetView extends BaseView {
     private int centerX;
     private Paint normalPaint;
     private final String txt = "Custom";
-    private final String assetPath = "fonts/KOMIKAX_.ttf";
+    private final String assetPath = "fonts/komikax_.ttf";
     private AssetManager manager;
     private Paint customPaint;
     private int width;

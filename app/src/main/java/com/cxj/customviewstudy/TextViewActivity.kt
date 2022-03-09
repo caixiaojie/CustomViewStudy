@@ -1,8 +1,8 @@
 package com.cxj.customviewstudy
 
-class ClockViewActivity : BaseActivity() {
+class TextViewActivity : BaseActivity() {
     override fun getLayoutId(): Int {
-        return R.layout.activity_clock_view
+        return R.layout.activity_textview
     }
 
     override fun init() {

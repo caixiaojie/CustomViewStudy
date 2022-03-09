@@ -3,10 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/drawable/expand_collapse.xml" value="0.38229166666666664" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/font/my_font.xml" value="0.3328125" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_a_basic.xml" value="0.36614583333333334" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_b_path.xml" value="0.36614583333333334" />
         <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_baisc_canvas.xml" value="0.31197916666666664" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_c_text.xml" value="0.36614583333333334" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_clock_view.xml" value="0.36614583333333334" />
         <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_first.xml" value="0.36614583333333334" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_image_basic.xml" value="0.36614583333333334" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_intersect.xml" value="0.36614583333333334" />
         <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_main.xml" value="0.23550724637681159" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_main2.xml" value="0.27239583333333334" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_preview_circle_camera.xml" value="0.31354166666666666" />
         <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_rect_point_view.xml" value="0.36614583333333334" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_spider.xml" value="0.3515625" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_sticker_text_view.xml" value="0.36614583333333334" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/activity_textview.xml" value="0.36614583333333334" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/content_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/project/CustomViewStudy/app/src/main/res/layout/text_layout.xml" value="0.36614583333333334" />
       </map>
     </option>
   </component>

@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">CustomViewStudy</string>
     <string name="my_image_desc">图片描述</string>
     <string name="collapsed">折叠展开</string>
 </resources>
